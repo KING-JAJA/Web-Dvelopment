@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(201, 247, 35);
+  margin: 0;
+
+}
+
+.top-container {
+  background-color: blueviolet;
+  border-color: black;
+  border: solid 10px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+}
+
+.middle-container {
+  background-color: brown;
+  height: 200px;
+  width: 200px;
+  margin: 0 260px 0;
+  border: solid 20px;
+  border-color: black;
+}
+
+.bottom-container {
+  background-color: chartreuse;
+  height: 200px;
+  width: 200px;
+  margin: 0 500px 0;
+  border: solid 10px;
+  border-color: black;
+}
